@@ -1,11 +1,13 @@
 for the introduction of user name
+
 	whoami
 
 for reading the directoy we use
-        
+
 	ls 
 
 for the output of tex what i wite we use
+
 	echo 
 
 for the chang of directory we use 
@@ -45,14 +47,4 @@ for make a directory we use
 
 
 
-
-  git config --global user.email "dmhabibullahshakib@gmail.com"
-  git config --global user.name "habib21494"
-
-echo "Linux-Basics" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/habib21494/Linux-Basics.git
-git push -u origin main
+git add . && git commit -m "first commit" && git push -u origin main
