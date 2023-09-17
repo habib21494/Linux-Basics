@@ -11,6 +11,7 @@ for the output of tex what i wite we use
 	echo 
 
 for the chang of directory we use 
+
 	cd 
 
 & for the backword directory we use 
