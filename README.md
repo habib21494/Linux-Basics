@@ -46,7 +46,8 @@ for make a directory we use
 
 
 
-
+  git config --global user.email "dmhabibullahshakib@gmail.com"
+  git config --global user.name "habib21494"
 
 echo "Linux-Basics" >> README.md
 git init
